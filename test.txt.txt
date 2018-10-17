@@ -1,8 +1,4 @@
 hello world
 Tell your world
-<<<<<<< HEAD
 Tell his world
 Tell her world
-=======
-Tell his world
->>>>>>> f9f27d72fe279bc69cdd94f32b6dae856cbd07ad
